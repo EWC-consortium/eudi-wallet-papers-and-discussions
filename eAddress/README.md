@@ -109,8 +109,3 @@ A wallet conforms to the eAddress specification if it:
 Using public distribution type and thus a public endpoint should be limited to mitigate any potential spam or DDoS attempts.
 
 Wallets should consider providing integration methods to enterprise IAM systems to enable authorized natural persons to verify incoming requests. This is useful for example when a natural person initiates an incoming connection and needs to authorize it.
-
-## Appendix A: Draft RFC text
-
-RFC005, Issue Legal Person Identification Data (LPID) - v0.4
-Let me know if you need any further assistance!
