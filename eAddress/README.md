@@ -130,8 +130,3 @@ The public distribution profile enables exposure of a public endpoint. This open
 
 ### Other security-related considerations
 Wallets should consider providing integration methods to enterprise IAM systems to enable authorized natural persons to verify incoming requests. This is useful for example when a natural person initiates an incoming connection and needs to authorize it.
-
-## Appendix A: Draft RFC text
-
-RFC005, Issue Legal Person Identification Data (LPID) - v0.4
-Let me know if you need any further assistance!
